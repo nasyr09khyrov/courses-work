@@ -122,3 +122,66 @@ p {
     margin-left: 50px;
 
 }
+.container2 {
+    background-color: #F1EBE4;
+    height: 751px;
+    box-shadow: 1px 0 5px rgb(68, 73, 50);
+}
+.container2 h1 {
+    padding-top: 70px;
+    margin-left: 50px;
+    font-weight: 100;
+    font-size: 50px;
+    display: inline-block;
+}
+.container2 img {
+    margin-top: -10px;
+    margin-left: 100px;
+}
+.container2 h2 {
+    margin-top: -30px;
+    margin-left: 50px;
+    font-weight: 100;
+    font-size: 50px;
+
+}
+.img2 {
+    display: flex;
+}
+.card {
+  text-align: start;
+  border: 3px solid black;
+  width: 324px;
+  height: 424px;
+  margin-right: -350px;
+  margin-top: -650px;
+  margin-left: 400px;
+}
+.img2 p {
+    font-size: 20;
+    margin-top: 25px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+} 
+.img2 span {
+    font-size: 20;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.span1 {
+    text-decoration: line-through;
+}
+.nav-ion {
+    color: black;
+    margin-top: -50px;
+    margin-left: 1260px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
