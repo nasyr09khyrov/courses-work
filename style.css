@@ -9,7 +9,7 @@ body {
 .navbar {
     width: 100%;
     height: 70px;
-    box-shadow: 0 4px 0  rgb(46, 38, 38);
+    box-shadow: 0 3px 2px  rgb(65, 68, 36);
 }
 
 .navbar .container {
@@ -108,5 +108,17 @@ span a {
     border: 2px solid black;
     padding-left: 50px;
     padding-top: 30px;
+    margin-top: -20px;
+
+}
+p {
+    color: black;
+    font-size: 64px;
+    margin-top: -180px;
+}
+.text {
+    width: 1263px;
+    height: 332px;
+    margin-left: 50px;
 
 }
