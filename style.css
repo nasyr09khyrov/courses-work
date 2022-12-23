@@ -152,8 +152,8 @@ p {
 .card {
   text-align: start;
   border: 3px solid black;
-  width: 324px;
-  height: 424px;
+  width: 330px;
+  height: 430px;
   margin-right: -350px;
   margin-top: -650px;
   margin-left: 400px;
@@ -196,6 +196,6 @@ p {
     padding-top: 38px;
     margin-top: -650px;
     margin-right: 0px;
-    margin-left: -350px;
+    margin-left: -360px;
 }
 
