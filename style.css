@@ -5,6 +5,7 @@ body {
     margin: 0;
     background-color: antiquewhite;
     font-family: 'Space Grotesk', sans-serif;
+    max-width: 1599px;
 }
 .navbar {
     width: 100%;
@@ -183,5 +184,18 @@ p {
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
+}
+.cercle {
+    border: 1px solid black;
+    width: 96px;
+    height: 96px;
+    border-radius: 1600px;
+    background-color: #FF9B3D;
+    color: black;
+    padding-left: 27px;
+    padding-top: 38px;
+    margin-top: -650px;
+    margin-right: 0px;
+    margin-left: -350px;
 }
 
