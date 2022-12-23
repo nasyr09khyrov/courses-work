@@ -178,12 +178,9 @@ p {
 }
 .nav-ion {
     color: black;
-    margin-top: -50px;
-    margin-left: 1260px;
+    margin-top: -70px;
+    margin-left: 450px;
 
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-end;
 }
 .cercle {
     border: 1px solid black;
